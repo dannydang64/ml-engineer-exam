@@ -1,0 +1,8 @@
+# Some dependencies to add: 
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+PyMuPDF
+spacy
+transformers
