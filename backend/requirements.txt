@@ -6,4 +6,5 @@ psycopg2-binary
 PyMuPDF
 spacy
 transformers
-torch
+#from removing torch and trying to only run with transdormers i needed to add multipart
+python-multipart
